@@ -27,7 +27,7 @@ a number of trials. These times will be averaged giving a timing value for each 
 <h2>How to Run</h2>
 <ol>
   <li><b>Compile the Program:</b>
-    <pre><code>g++ -o CS320Luna Source.cpp</code></pre>
+    <pre><code>g++ -o Timing_Loop Source.cpp</code></pre>
   </li>
   <li><b>Execute the Program:</b>
     <pre><code>./CS320Luna</code></pre>
