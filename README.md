@@ -30,7 +30,7 @@ a number of trials. These times will be averaged giving a timing value for each 
     <pre><code>g++ -o Timing_Loop Source.cpp</code></pre>
   </li>
   <li><b>Execute the Program:</b>
-    <pre><code>./CS320Luna</code></pre>
+    <pre><code>./Timing_Loop</code></pre>
   </li>
   <li><b>Follow the prompts</b> to select the loop fragment and the set of input sizes to use for timing.</li>
 </ol>
